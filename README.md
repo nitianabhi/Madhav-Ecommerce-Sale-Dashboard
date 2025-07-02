@@ -16,7 +16,9 @@ Go to the Home tab → Transform → Group by
 
 
 Step 3: Create data views in Power BI (table views).
+
 Step 4: Create model views in Power BI.
+
 Step 5: Build the dashboard in Power BI.
 
 
