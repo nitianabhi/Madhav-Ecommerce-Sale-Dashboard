@@ -10,6 +10,7 @@ The owner of Madhav Store wants help to create a dashboard to track and analyze 
 ## Steps to Create the Dashboard:
 
 Step 1: Collect the sales data.
+
 Step 2: Import the data into Power BI.
 
 Go to the Home tab → Transform → Group by
