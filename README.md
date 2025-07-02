@@ -36,5 +36,6 @@ Step 5: Build the dashboard in Power BI.
 ## 4. used different types of customized visualization(Bar Chart, Pie Chart,Clustered Bar Chart,Scatter Chart,Donut Chart,Line Chart, Area Chart,Map,Slicers etc).
 
 
+## Dashboard
 
 https://github.com/user-attachments/assets/1c1bb832-b2b0-41ff-bc19-0fc389e4dee5
