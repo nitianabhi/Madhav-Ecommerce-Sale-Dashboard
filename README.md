@@ -1,6 +1,7 @@
 # Madhav-Ecommerce-Sale-Dashboard
 
-##Objective:
+## Objective:
+
 The owner of Madhav Store wants help to create a dashboard to track and analyze their online sales across India.
 
 
@@ -29,4 +30,4 @@ Step 5: Build the dashboard in Power BI.
 
 
 ## 3. Built connections between tables, used calculations to manage data, and added user-driven parameters for better visualizations.
-## 4.used different types of customized visualization(Bar Chart, Pie Chart,Clustered Bar Chart,Scatter Chart,Donut Chart,Line Chart, Area Chart,Map,Slicers etc).
+## 4. used different types of customized visualization(Bar Chart, Pie Chart,Clustered Bar Chart,Scatter Chart,Donut Chart,Line Chart, Area Chart,Map,Slicers etc).
